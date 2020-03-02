@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spongebob Linear Layout</string>
+    <string name="name">Spongebob Squarpents</string>
+    <string name="formal">Hi, My Name is Spongebob</string>
+    <string name="interests">Interest: I love everyone</string>
+    <string name="age">Age : 33Th</string>
+    <string name="address">Address : 124 Conch Street Bikini Bottom Pacific Ocean </string>
+    <string name="description">A square yellow sponge named SpongeBob SquarePants lives in a pineapple with his pet snail, Gary, in the city of Bikini Bottom on the floor of the Pacific Ocean.
+        He works as a fry cook at the Krusty Krab. During his time off, SpongeBob has a knack for attracting trouble with his starfish best friend,
+        Patrick. Arrogant octopus Squidward Tentacles, SpongeBob’s neighbor, dislikes SpongeBob because of his childlike behavior.</string>
+</resources>

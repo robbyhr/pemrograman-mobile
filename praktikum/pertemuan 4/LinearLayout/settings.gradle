@@ -1,0 +1,2 @@
+rootProject.name='Linear Layout'
+include ':app'
